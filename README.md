@@ -7,6 +7,7 @@ Key Features
   - Represents an invoice with properties
   - Ensures valid values for quantity and price using property validation
   - Provides a formatted string output for displaying invoice details
+
 LINQ Queries
 - Part A: Sorts invoices by PartDescription
 - Part B: Sorts invoices by Price
